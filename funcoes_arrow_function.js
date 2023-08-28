@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JavaScript</title>
-</head>
-<body>
-    
-    <script>
-
-        /* let quadrado = function(x = 5) {
+/* let quadrado = function(x = 5) {
             return x * x
         }
 
@@ -36,7 +25,3 @@
         }
 
         document.write(parOuImpar(156))
-
-    </script>
-</body>
-</html>
