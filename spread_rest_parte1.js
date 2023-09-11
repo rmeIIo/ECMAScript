@@ -18,3 +18,15 @@ let listaCursosCompleto = ['Web Completo', 'Android Completo', ...listaCursos1, 
 
 console.log(listaCursosCompleto)
 
+//objetos
+
+let pessoa = {
+    nome: 'João',
+    idade: 27
+}
+
+let clone = {
+    endereço: 'Rua ABC', ...pessoa
+}
+
+console.log(clone)
